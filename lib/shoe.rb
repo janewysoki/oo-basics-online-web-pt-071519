@@ -16,7 +16,7 @@ class Shoe
   
 end
 
-shoe.condition = "new"
+
 
 #it 'makes the shoe\'s condition new' do
       #shoe.condition = "old"
